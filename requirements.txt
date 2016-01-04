@@ -1,0 +1,1 @@
+hbp-sphinx-theme>=0.3.3
