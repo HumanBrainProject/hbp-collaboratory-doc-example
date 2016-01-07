@@ -1,3 +1,3 @@
-[submodule "hbp-collaboratory-sphinx-theme"]
-	path = hbp-collaboratory-sphinx-theme
-	url = git@github.com:HumanBrainProject/hbp-collaboratory-sphinx-theme.git
+[submodule "hbp-sphinx-theme"]
+	path = hbp-sphinx-theme
+	url = git@github.com:HumanBrainProject/hbp-sphinx-theme.git

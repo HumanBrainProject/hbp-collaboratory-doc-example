@@ -4,11 +4,11 @@ module.exports = function (grunt) {
     require('load-grunt-tasks')(grunt);
 
     grunt.initConfig({
-        themeAssets: 'hbp-collaboratory-sphinx-theme/assets',
+        themeAssets: 'hbp-sphinx-theme/assets',
 
         subgrunt: {
             theme: {
-                'hbp-collaboratory-sphinx-theme': 'default',
+                'hbp-sphinx-theme': 'default',
             },
         },
 
